@@ -1,1 +1,75 @@
+body {
+background-color: pink;
+height:100%;
+}
+nav{
+  margin:0;
+  padding:0;
+  overflow:hidden;
+  background-color:black;
+}
+a {
+  float: left;
+  display: block;
+  color: white;
+  text-align:center;
+  padding: 14px 16px;
+}
+a:hover {
+  background-color: gray;
+  color:black;
+}
 
+h1 {
+  text-align: center;
+  font-family: times;
+  font-style: italic;
+}
+#image{
+  display: block;
+  margin: 0 auto;
+  padding-bottom:5px;
+}
+
+p {
+  width:400px;
+  text-align: center;
+  margin: 0 auto;
+  padding-bottom: 5px;
+  font-family: times;
+}
+footer{
+  margin:2px;
+  padding:2px;
+  overflow:hidden;
+  background-color:black;
+}
+form {
+  border:6px solid white;
+  width: 25%;
+  margin-left:auto;
+  margin-right:auto;
+  background-color: grey;
+  font-family: times;
+}
+div{
+  padding-bottom:5px;
+}
+table a {
+  border: 5px solid white;
+  background-color: grey;
+}
+#mail {
+  border:5px solid white;
+  margin-top:15%;
+  background-color: gray;
+}
+.footerClass {
+  margin-top: 20%;
+}
+ul {
+  font-family: times;
+}
+li {
+  font-family:times;
+}
