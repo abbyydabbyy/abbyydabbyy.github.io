@@ -29,6 +29,8 @@ h1 {
   display: block;
   margin: 0 auto;
   padding-bottom:5px;
+  height: 400px
+  width: 400px
 }
 
 p {
